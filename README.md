@@ -1,1 +1,1 @@
-# Exploratory-Data-Analyst-Ecommerce
+# Exploratory-Data-Analysis-Ecommerce
